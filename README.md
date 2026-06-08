@@ -1,3 +1,3 @@
-# heart_attack_ipynb
+# heart-disease-prediction
 
 https://supremeinferno-heart-attack-app.streamlit.app
