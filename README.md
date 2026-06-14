@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 **Try the application here:**
 
@@ -36,15 +36,15 @@ The project combines data preprocessing, feature engineering, machine learning, 
 
 ---
 
-## 📸 Application Preview
+## Application Preview
 
-### 🏠 Home Dashboard
+### Home Dashboard
 
 <p align="center">
   <img src="assets/Screenshot1.png" width="900">
 </p>
 
-### 📊 Prediction Results
+### Prediction Results
 
 <p align="center">
   <img src="assets/Screenshot2.png" width="900">
@@ -52,31 +52,31 @@ The project combines data preprocessing, feature engineering, machine learning, 
 
 ---
 
-## ✨ Features
+## Features
 
-✅ Interactive Streamlit Dashboard
+Interactive Streamlit Dashboard
 
-✅ Heart Disease Risk Prediction
+Heart Disease Risk Prediction
 
-✅ Probability-Based Risk Assessment
+Probability-Based Risk Assessment
 
-✅ Personalized Health Recommendations
+Personalized Health Recommendations
 
-✅ Modern Dark-Themed User Interface
+Modern Dark-Themed User Interface
 
-✅ Interactive Sliders and Dropdown Controls
+Interactive Sliders and Dropdown Controls
 
-✅ Health Awareness Tips Sidebar
+Health Awareness Tips Sidebar
 
-✅ Real-Time Predictions
+Real-Time Predictions
 
-✅ Responsive Design
+Responsive Design
 
-✅ Confidence Score Visualization
+Confidence Score Visualization
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 The model was trained on a heart disease dataset containing:
 
@@ -86,7 +86,7 @@ The model was trained on a heart disease dataset containing:
 | Features        | 11           |
 | Target Variable | HeartDisease |
 
-### 📋 Features Used
+### Features Used
 
 * Age
 * Sex
@@ -102,7 +102,7 @@ The model was trained on a heart disease dataset containing:
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -115,7 +115,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 🤖 Machine Learning Models Evaluated
+## Machine Learning Models Evaluated
 
 Multiple machine learning algorithms were trained and compared.
 
@@ -129,7 +129,7 @@ Multiple machine learning algorithms were trained and compared.
 
 ---
 
-## 🎯 Final Model
+## Final Model
 
 The deployed application uses:
 
@@ -158,7 +158,7 @@ rather than only returning a binary output.
 
 ---
 
-## ⚙️ Technology Stack
+## Technology Stack
 
 ### Programming Language
 
@@ -178,7 +178,7 @@ rather than only returning a binary output.
 
 ---
 
-## 🔄 Machine Learning Pipeline
+## Machine Learning Pipeline
 
 ```text
 Dataset
@@ -202,7 +202,7 @@ Streamlit Deployment
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 heart-disease-prediction/
@@ -223,7 +223,7 @@ heart-disease-prediction/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Clone Repository
 
@@ -251,7 +251,7 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Explainable AI using SHAP
 * Feature Importance Visualization
