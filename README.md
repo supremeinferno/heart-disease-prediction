@@ -10,7 +10,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-blue?style=for-the-badge\&logo=plotly)
 
 </p>
-
 <p align="center">
   <b>Predict heart disease risk using Machine Learning and interactive data-driven insights.</b>
 </p>
