@@ -269,11 +269,6 @@ streamlit run app.py
 
 Passionate about:
 
-* Machine Learning
-* Artificial Intelligence
-* Data Science
-* Deep Learning
+* Machine Learning • Computer Vision • Deep Learning • Agentic AI 
 
 🔗 GitHub: https://github.com/supremeinferno
-
----
