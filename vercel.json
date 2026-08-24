@@ -1,7 +1,3 @@
 {
-  "functions": {
-    "api/predict.py": {
-      "runtime": "python@3.11"
-    }
-  }
+  "version": 2
 }
