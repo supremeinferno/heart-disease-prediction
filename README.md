@@ -20,7 +20,7 @@
 
 🔗 **Try the application here:**
 
-[https://swasya.vercel.app]
+https://swasya.vercel.app
 
 ---
 
