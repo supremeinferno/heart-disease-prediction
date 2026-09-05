@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange?style=for-the-badge\&logo=scikitlearn)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?style=for-the-badge\&logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-blue?style=for-the-badge\&logo=plotly)
 
 </p>
