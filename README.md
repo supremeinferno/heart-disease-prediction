@@ -26,7 +26,7 @@ https://swasya.vercel.app
 
 ## 📌 Project Overview
 
-CardioPredict AI is a Machine Learning-powered healthcare application designed to estimate the probability of heart disease using clinical and lifestyle parameters.
+Swasya is a Machine Learning-powered healthcare application designed to estimate the probability of heart disease using clinical and lifestyle parameters.
 
 The application utilizes a Support Vector Classifier (SVC) model with probability estimation enabled, allowing users to receive risk scores rather than simple binary predictions.
 
