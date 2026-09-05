@@ -1,4 +1,4 @@
-# 🫀 CardioPredict AI
+# 🫀 Swasya
 
 ### 🩺 Smart Heart Disease Risk Assessment using Machine Learning
 
